@@ -5,3 +5,7 @@ Somemore changes made.
 
 
 this change is to demontrate HEAD pointing from git-session.
+
+
+This time pichekkinchali Conflicts ni.
+This is from git-myprojects.
