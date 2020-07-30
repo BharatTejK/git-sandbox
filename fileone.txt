@@ -2,3 +2,5 @@
 This changes will be for the next commit.
 
 Somemore changes made.
+
+this change is to demontrate HEAD pointing from git-session.
