@@ -2,3 +2,7 @@
 This changes will be for the next commit.
 
 Somemore changes made.
+
+This change is updated from git-session which has HEAD pointing to older version but in GITHUB there is newer version created by git-myproject.
+This change should give a CONFLICT while pushing.
+
