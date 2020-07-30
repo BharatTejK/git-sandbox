@@ -5,3 +5,4 @@ Again confilict testing this is git-session.
 Again confilict testing this is git-myproject.
 
 Again confilict testing using FETCH this is git-myproject.
+RENDOSARI FETCH testing...
