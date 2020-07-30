@@ -1,6 +1,7 @@
 This is to test the conflicts that arise while working with other developers.
 This is from git-myproject.
 
+Again confilict testing this is git-session.
 Again confilict testing this is git-myproject.
-Again confilict testing using FETCH this is git-myproject.
 
+Again confilict testing using FETCH this is git-myproject.
