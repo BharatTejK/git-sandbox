@@ -5,3 +5,6 @@ Somemore changes made.
 
 
 this change is to demontrate HEAD pointing from git-session.
+
+This time conflict vasthundi ra.
+This is from git-session.
