@@ -6,11 +6,6 @@ Somemore changes made.
 
 this change is to demontrate HEAD pointing from git-session.
 
-<<<<<<< HEAD
+
 This time conflict vasthundi ra.
 This is from git-session.
-=======
-
-This time pichekkinchali Conflicts ni.
-This is from git-myprojects.
->>>>>>> a7e7880e1727081f795b7c187505d7275d81d004
