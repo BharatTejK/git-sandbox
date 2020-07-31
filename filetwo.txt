@@ -1,1 +1,2 @@
 adding a line to demonstrate AMMENDing a commit.
+The above line is Original file before stashing. This is new line for stashing.
